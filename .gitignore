@@ -1,0 +1,16 @@
+# Ignore large files/folders
+inputs/
+outputs/
+
+# Large data / outputs
+#*.tif
+#*.tiff
+#*.nc
+#*.RData
+#*.rds
+
+# R extras
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
