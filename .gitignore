@@ -1,6 +1,5 @@
 # Ignore large files/folders
 inputs/substrate/
-outputs/
 
 # Large data / outputs
 #*.tif
